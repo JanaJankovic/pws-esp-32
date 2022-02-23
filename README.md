@@ -26,9 +26,9 @@ Your circuitry needs to look like this:
 <img src="1.png" height="500px" alt="Circuitry"/>
 
 ## Setup Example
-Watering system with indirect sunlight <br>
-<img src="1.JPEG" height="500px" alt="Example setup 1"/> <br>
-Watering system with direct sunlight <br>
+### Watering system with indirect sunlight <br>
+<img src="1.JPEG" height="500px" alt="Example setup 1"/> <br><br>
+### Watering system with direct sunlight <br>
 <img src="2.JPEG" height="500px" alt="Example setup 2"/> <br>
 
 ## Features
