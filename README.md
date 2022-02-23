@@ -23,7 +23,14 @@ Embedded part of multi-layered information system made for practical part of dip
 ## Setup
 Download the code and upload it to your ESP32.
 Your circuitry needs to look like this:
-<img src="1.png" height="500px" alt="Circuitry"/>
+<img src="1.png" height="500px" alt="Circuitry"/> <br>
+Meaning of abbreviations on picture:
+* m - moisture sensor
+* HC-SR04 - ultrasonic sensor
+* LDR - light dependant resistor
+* DHT11 - temperature and humidity sensor
+* BAT - batter
+* PMP - pump
 
 ## Setup Example
 ### Watering system with indirect sunlight <br>
